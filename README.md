@@ -1,6 +1,4 @@
-# TWSU Code Test
-
-Candidate: **JC Nicolas**
+# TWSU 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -44,8 +42,3 @@ The animations are very simple. However as not a React user, I had to spend time
 I used Stylus to build up base CSS layouts, and handle basic responsiveness to fit mobile viewports.
 
 There's definitely some React practices I could improve on. But I was satisfied with my results as the app logic felt cohesive to the way React I think is meant to behave. 
-
-
-
-Thanks for looking!
-
